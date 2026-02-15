@@ -1,53 +1,18 @@
-💫 About Me:
-Developing n8n automation workflows and AI-powered integrations
-
-Building projects using Python for automation and AI applications
-
-Exploring practical implementations of AI in real-world systems
+# 💫 About Me:
+Developing n8n automation workflows and AI-powered integrations<br><br>Building projects using Python for automation and AI applications<br><br>Exploring practical implementations of AI in real-world systems<br><br><br><br>Open-source projects related to Automation, AI, and Backend Development<br><br>Hackathons focused on AI-driven solutions and innovative tech ideas<br><br>Projects involving Python, Node.js, and workflow automation<br><br><br><br>Advanced automation architectures and scalable AI systems<br><br>Best practices for building production-level AI tools<br><br><br><br>Advanced Automation systems using n8n<br><br>Artificial Intelligence concepts and practical AI implementation<br><br>Full-stack development using React and Node.js<br><br><br><br>Artificial Intelligence fundamentals and applications<br><br>Python programming and automation workflows<br><br>Java basics and backend logic building<br><br><br><br>I love turning manual tasks into automated systems 🚀<br><br>I’m constantly exploring how AI can simplify real-world problems
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pAK3YMhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelash-heerani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heeranikelash1@gmail.com) 
 
-Open-source projects related to Automation, AI, and Backend Development
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KelashHeerani&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KelashHeerani&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KelashHeerani&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-Hackathons focused on AI-driven solutions and innovative tech ideas
+---
+[![](https://visitcount.itsvg.in/api?id=KelashHeerani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Projects involving Python, Node.js, and workflow automation
-
-
-
-Advanced automation architectures and scalable AI systems
-
-Best practices for building production-level AI tools
-
-
-
-Advanced Automation systems using n8n
-
-Artificial Intelligence concepts and practical AI implementation
-
-Full-stack development using React and Node.js
-
-
-
-Artificial Intelligence fundamentals and applications
-
-Python programming and automation workflows
-
-Java basics and backend logic building
-
-
-
-I love turning manual tasks into automated systems 🚀
-
-I’m constantly exploring how AI can simplify real-world problems
-
-🌐 Socials:
-Discord LinkedIn email
-
-💻 Tech Stack:
-C++ Java Python Dart Cloudflare Oracle .Net Angular.js Flutter React Hook Form Next JS NodeJS React Router React Query React React Native MongoDB MySQL Adobe Adobe After Effects Canva Matplotlib Pandas NumPy mlflow PyTorch Scipy Power Bi Portfolio Prezi
-
-📊 GitHub Stats:
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

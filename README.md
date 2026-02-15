@@ -1,5 +1,28 @@
-# 💫 About Me:
-Developing n8n automation workflows and AI-powered integrations<br><br>Building projects using Python for automation and AI applications<br><br>Exploring practical implementations of AI in real-world systems<br><br><br><br>Open-source projects related to Automation, AI, and Backend Development<br><br>Hackathons focused on AI-driven solutions and innovative tech ideas<br><br>Projects involving Python, Node.js, and workflow automation<br><br><br><br>Advanced automation architectures and scalable AI systems<br><br>Best practices for building production-level AI tools<br><br><br><br>Advanced Automation systems using n8n<br><br>Artificial Intelligence concepts and practical AI implementation<br><br>Full-stack development using React and Node.js<br><br><br><br>Artificial Intelligence fundamentals and applications<br><br>Python programming and automation workflows<br><br>Java basics and backend logic building<br><br><br><br>I love turning manual tasks into automated systems 🚀<br><br>I’m constantly exploring how AI can simplify real-world problems
+🔭 I’m currently working on
+
+Building n8n automation workflows and AI-driven systems
+
+Developing solutions using Python, Automation, and AI
+
+👯 I’m looking to collaborate on
+
+Open-source and hackathon projects in AI, Automation, and Backend Development
+
+🌱 I’m currently learning
+
+Advanced Automation Architecture
+
+AI implementation in real-world applications
+
+Full-stack development with React & Node.js
+
+💬 Ask me about
+
+AI, Python, Automation, and Java
+
+⚡ Fun fact
+
+I enjoy transforming manual processes into intelligent automated systems 🚀
 
 
 ## 🌐 Socials:

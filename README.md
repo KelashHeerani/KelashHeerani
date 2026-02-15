@@ -1,16 +1,53 @@
-## Hi there 👋
+💫 About Me:
+Developing n8n automation workflows and AI-powered integrations
 
-<!--
-**KelashHeerani/KelashHeerani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building projects using Python for automation and AI applications
 
-Here are some ideas to get you started:
+Exploring practical implementations of AI in real-world systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Open-source projects related to Automation, AI, and Backend Development
+
+Hackathons focused on AI-driven solutions and innovative tech ideas
+
+Projects involving Python, Node.js, and workflow automation
+
+
+
+Advanced automation architectures and scalable AI systems
+
+Best practices for building production-level AI tools
+
+
+
+Advanced Automation systems using n8n
+
+Artificial Intelligence concepts and practical AI implementation
+
+Full-stack development using React and Node.js
+
+
+
+Artificial Intelligence fundamentals and applications
+
+Python programming and automation workflows
+
+Java basics and backend logic building
+
+
+
+I love turning manual tasks into automated systems 🚀
+
+I’m constantly exploring how AI can simplify real-world problems
+
+🌐 Socials:
+Discord LinkedIn email
+
+💻 Tech Stack:
+C++ Java Python Dart Cloudflare Oracle .Net Angular.js Flutter React Hook Form Next JS NodeJS React Router React Query React React Native MongoDB MySQL Adobe Adobe After Effects Canva Matplotlib Pandas NumPy mlflow PyTorch Scipy Power Bi Portfolio Prezi
+
+📊 GitHub Stats:
+
+
+
